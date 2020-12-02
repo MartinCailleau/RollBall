@@ -1,0 +1,11 @@
+- puzzle game
+- passer d'une pièce à l'autre par une porte de plus en plus petite.
+- la balle se deplace avec la force du rigidbody
+- la balle peut "manger" des cubes. Certains la font grossir et d'autre la font retressir.
+- si la balle devient trop petite elle meurt => Game Over.
+- si elle devient trop grosse elle meurt => Game Over.
+- elle doit devenir suffisament petite pour passer la porte.
+- parfois elle doit etre suffisament grosse pour pouvoir pousser des objets.
+- parfois elle doit etre suffisament grosse pour ne pas tomber dans des trous.
+- X mis de coté X ses mouvement la font retressir. elle doit donc manger assez pour ce déplacer mais pas trop pour pouvoir passer au niveau suivant.
+- dans les niveaux il y a toujours au moins autant de cube grossissant que retressissant.
